@@ -64,7 +64,7 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Donovan L. Grant Jr."
-resume_title:                   "Man desperate"
+resume_title:                   "Man desperate for job"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "donovanjr4@gmail.com"
