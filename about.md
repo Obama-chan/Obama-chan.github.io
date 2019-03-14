@@ -4,4 +4,4 @@ title: About
 ---
 #About page
 
-I'm black
+[Will be updated soon]
