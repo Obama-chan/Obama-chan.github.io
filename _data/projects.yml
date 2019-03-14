@@ -1,9 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: My life
-  role: Fixer
+- project: Learning Git while expanding my Github
+  role: Learner
   duration: 2019 &mdash; Present
   # url: "#"
-  description: I haven't taken my adult life seriously and I feel like a bum. So i gotta fix that
+  description: My friend has informed me how importnat and powerful git is. So I've started mini-projetcs in hope I learn how to properly use git while also expanding my projects on Github
