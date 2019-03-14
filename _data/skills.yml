@@ -1,11 +1,13 @@
 # Skills
-# Organizational leadership
-- skill: Clown time
-  description: I can make people laugh sometimes
 # Communications strategy
 - skill: Simplify complex concepts
-  description: Turn computer jargon into english for normal people
+  description: Turn computer jargon into easier to understand concepts for less tech-savvy individuals
 
-# Digital content development and creation
-- skill: Alive while being black
-  description: I can hide in the shadows
+- skill: Computer Languages
+  description: Experience with Java, C, Ruby
+  
+- skill: Operating Systems
+  description: Experience with Windows 10 and Linux Ubuntu
+  
+- skill: Japanese
+  description: Currently learning Japanese
