@@ -64,19 +64,19 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Donovan L. Grant Jr."
-resume_title:                   "Man desperate for job"
+resume_title:                   "Donovan's Resume"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "donovanjr4@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "954-907-7364"
-resume_contact_address:         "Florida"
+resume_contact_address:         "Pembroke Pines, Florida"
 
-resume_header_contact_info:     "Florida • 954-907-7364 • donovanjr4@gmail.com"
+resume_header_contact_info:     "Pembroke Pines, Florida • 954-907-7364 • donovanjr4@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>[work in progress] I'm an IT boy please hire me</p>"
+resume_header_intro: "<p>[work in progress] I'm an IT Software major seeking employment</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -90,7 +90,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
