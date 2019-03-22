@@ -1,6 +1,6 @@
 ---
-short_name: TT
+short_name: Tricky
 name: Tricky Tarantula
 position: Grunt
 ---
-If there's a prblem TT caused it, smh.
+If there's a prblem Tricky caused it.
